@@ -1,5 +1,10 @@
 # recipe-app-api
   
 Python  
-Docker  
-Flake8  
+Docker
+DockerHub
+Flake8
+TDD
+Git
+GitHub
+GitActions
